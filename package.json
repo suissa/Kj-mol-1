@@ -1,0 +1,23 @@
+{
+  "name": "unity-kj*mol^-1",
+  "version": "1.0.0",
+  "description": "Unidade do Kj/mol",
+  "main": "unity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suissa/Kj-mol-1.git"
+  },
+  "keywords": [
+    "suissa",
+    "webschool"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/suissa/Kj-mol-1/issues"
+  },
+  "homepage": "https://github.com/suissa/Kj-mol-1#readme"
+}
